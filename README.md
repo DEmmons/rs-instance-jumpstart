@@ -11,9 +11,11 @@ two additional files, rs-instance-jumpstart.bat (for Windows) and rs-instance-ju
 and Linux), which simply contain the command to run this app in Java. To 'install', you'll just need
 to download these files and put them in a folder you can get to later.
 
-To run the app in Windows, double-click or otherwise run rs-instance-jumpstart.bat.
-For Mac and Linux, run rs-instance-jumpstart.sh instead.
-You can also run it from a command line with this command:
+As long as you have a recent version of Java installed, you should be able to simply run
+RSInstanceJumpstart.jar directly. If not, there are a few more methods you can try. To run the app
+in Windows, double-click or otherwise run rs-instance-jumpstart.bat. For Mac and Linux, run
+rs-instance-jumpstart.sh instead. You can also run it from a command line with this command:
+
 java -jar RSInstanceJumpstart.jar
 
 The app will simply prompt for your Rackspace username and API key, and use these to authenticate
