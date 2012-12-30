@@ -44,7 +44,7 @@ A: Primarily, this is geared for non-technical users who would benefit from a wa
 that are in 'Shutoff' state back on that doens't require command line use or scripting. The majority
 of these are likely to be Windows users, for a few reasons. One is that you can set up and manage
 a Windows Cloud Server without ever needing to use a command line interface, unlike Linux servers.
-Another is that Windows desktop users are familiar with shutting their machine after use, and there
+Another is that Windows desktop users are familiar with shutting down their machine after use, and there
 are many Rackspace customers using their Windows servers as a shared desktop for application like
 QuickBooks - to compund the issue, it is a common misconception that halted servers do not incur
 hourly charges. Finally, there are several kinds of errors that can cause a Windows server to
