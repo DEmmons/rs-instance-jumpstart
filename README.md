@@ -5,11 +5,14 @@ Simple Graphical Java tool to start Rackspace Next Gen / OpenStack Cloud Servers
 
 # Installation and use:
 
-For normal use, you won't need to download the whole project, only the 'dist' folder. This contains
-the latest working build as a .jar file, plus a folder containing libs it depends on. There are
-two additional files, rs-instance-jumpstart.bat (for Windows) and rs-instance-jumpstart.sh (For Mac
-and Linux), which simply contain the command to run this app in Java. To 'install', you'll just need
-to download these files and put them in a folder you can get to later.
+For normal use, just hit the 'download as zip' button, save it somewhere you'll know how to get to,
+and unzip it. You won't need the whole project, only the 'dist' folder, but the full project is
+pretty small anyway. The dist folder contains the latest working build as a .jar file, plus a folder
+containing libs it depends on. There are two additional files, rs-instance-jumpstart.bat (for
+Windows) and rs-instance-jumpstart.sh (For Mac and Linux), which simply contain the command to run
+this app in Java. To 'install', you'll just need to download these files and put them in a folder
+you can get to later. If you don't have Java installed, that will be required as well, and you can
+find it at http://java.com/en/
 
 As long as you have a recent version of Java installed, you should be able to simply run
 RSInstanceJumpstart.jar directly. If not, there are a few more methods you can try. To run the app
