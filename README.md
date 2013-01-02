@@ -77,7 +77,7 @@ will ever get to coding for Windows GUIs.
 
 Q: It's asking for my API Key. Where do I find that?
 
-A: Your API Key could be though of as a second password on your account for API operations. You can
+A: Your API Key could be thought of as a second password on your account for API operations. You can
 find it in the Rackspace Open Cloud Control Panel by clicking your username and account number in
 the upper right corner, and then clicking 'API Keys' in the resulting drop-down menu.
 
