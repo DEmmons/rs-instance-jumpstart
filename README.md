@@ -1,7 +1,9 @@
 rs-instance-jumpstart
 =====================
 
-Simple Graphical Java tool to start Rackspace Next Gen / OpenStack Cloud Servers in Shutoff state
+Simple Graphical Java tool to start Rackspace Next Gen / OpenStack Cloud Servers in Shutoff state.
+*Note* this functionality has now been added to the Open Cloud Control Panel, making this tool
+obsolete other than as an example of API use in Java
 
 # Installation and use:
 
@@ -82,7 +84,8 @@ find it in the Rackspace Open Cloud Control Panel by clicking your username and 
 the upper right corner, and then clicking 'API Keys' in the resulting drop-down menu.
 
 Q: Isn't this project going to become obsolete as soon as the Open Cloud Control Panel is updated
-to not have the 'Reboot server' action grayed out when in 'Shutoff' state?
+to not have the 'Reboot server' action grayed out when in 'Shutoff' state? (update: this is exactly
+what happened, and this tool is now deprecated accordingly)
 
 A: That's the idea. But I'm also making it for the purpose of gaining experience and having a good
 framework to build other such apps in the future. To this end I've licensed it under the LGPL,
